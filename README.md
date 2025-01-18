@@ -17,18 +17,19 @@ This dataset has details of 1000 users from different backgrounds and whether or
 
 # Process
 
--Remove duplicates . 
+- Remove duplicates . 
 
--formatting the table(Table style).
+- formatting the table(Table style).
 
--Replace abbreviations in the dataset: "S" with "Single," "M" with "Married," "F" with "Female," and "M" with "Male" using the find-and-replace feature.
+- Replace abbreviations in the dataset: "S" with "Single," "M" with "Married," "F" with "Female," and "M" with "Male" using the find-and-replace feature.
 
--create a column to show who are “Adolescent”,”Old”,”Middle Age” as per Age.
+- create a column to show who are “Adolescent”,”Old”,”Middle Age” as per Age.
 
--Creating pivot tables,Dashboard visualization .Getting to know how many people have purchased bikes mostly as per gender,educational wise,Martial Status.
+- Creating pivot tables,Dashboard visualization .Getting to know how many people have purchased bikes mostly as per gender,educational wise,Martial Status.
 
 # Dashboard  
 
-![Alt text](https://example.com/image.png)
+![Alt text](https://github.com/Mohamed-mosad-hadia/Bike-Sales-Analysis-/blob/main/Dashboard.jpg?raw=true)
+
 
 
